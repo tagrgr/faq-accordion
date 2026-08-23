@@ -5,8 +5,30 @@
     --color-purple-100: hsl(275, 100%, 97%);
     --color-purple-600: hsl(292, 16%, 49%);
     --color-purple-950: hsl(292, 42%, 14%);
+    --color-violet-600: hsl(281, 83%, 54%);
 
     --font-regular: 400;
     --font-semibold: 600;
     --font-bold: 700;
+
+    --spacing-100: 8px;
+    --spacing-200: 16px;
+    --spacing-300: 24px;
+    --spacing-400: 32px;
+    --spacing-500: 40px;
+
+    /* text-preset1 BOLD */
+    --font-preset1: 56px;
+    --line-height-preset1: 66px;
+    --font-heading: 'Work Sans Bold';
+
+    /* text-preset2 SEMIBOLD */
+    --font-preset2: 18px;
+    --line-height-preset2: 21px;
+    --font-headers: 'Work Sans SemiBold';
+
+    /* text-preset3 SEMIBOLD */
+    --font-preset2: 16px;
+    --line-height-preset2: 24px;
+    --font-body: 'Work Sans Regular';
 }
