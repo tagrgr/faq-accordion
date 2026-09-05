@@ -13,7 +13,7 @@
     --spacing-400: 32px;
     --spacing-500: 40px;
 
-    --font-family: 'Work Sans';
+    --font-default: 'Work Sans';
 
     /* text-preset1 BOLD */
     --font-preset1: 56px;
@@ -26,7 +26,7 @@
     --font-semibold: 600;
 
     /* text-preset3 SEMIBOLD */
-    --font-preset2: 16px;
-    --line-height-preset2: 24px;
+    --font-preset3: 16px;
+    --line-height-preset3: 24px;
     --font-regular: 400;
 }
