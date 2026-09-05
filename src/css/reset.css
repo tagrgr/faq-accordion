@@ -12,3 +12,14 @@ a {
     text-decoration: none;
 }
 
+button, input, select, textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}

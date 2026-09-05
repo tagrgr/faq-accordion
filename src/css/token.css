@@ -16,7 +16,7 @@
     --font-default: 'Work Sans';
 
     /* text-preset1 BOLD */
-    --font-preset1: 56px;
+    --font-preset1: 48px;
     --line-height-preset1: 66px;
     --font-bold: 700;
 
@@ -25,7 +25,7 @@
     --line-height-preset2: 21px;
     --font-semibold: 600;
 
-    /* text-preset3 SEMIBOLD */
+    /* text-preset3 REGULAR */
     --font-preset3: 16px;
     --line-height-preset3: 24px;
     --font-regular: 400;
